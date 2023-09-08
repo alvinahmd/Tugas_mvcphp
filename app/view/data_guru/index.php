@@ -25,7 +25,7 @@
           <table style="width:80rem;" class="table table-bordered col-12" id="myTable">
           <tbody>
           <?php foreach ($data['data_guru'] as $data_guru) : ?>
-          <tr>
+          <tr style="margin-bottom: 50px">
                 <td style="background-color:#071952; color:white;">
                   <?= $data_guru['nama']; ?>
                 </td>

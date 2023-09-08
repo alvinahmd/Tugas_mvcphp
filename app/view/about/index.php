@@ -20,7 +20,7 @@
       <h1 style="text-shadow: 4px 4px 5px red;">ALVIN TOP AHMAD DJAELANI</h1>
       <h2 style="font-size: 15px;padding-bottom: 10px;">Designing, Developing, and Delivering Web Excellence for into Seamless Digital Experiences</h2>
       <div class="d-flex justify-content-center justify-content-lg-start">
-        <a href="https://alvinntamddd.vercel.app/" class="glightbox btn btn-primary">
+        <a href="https://alvinntamddd.vercel.app/" target="blank" class="glightbox btn btn-primary">
         <span>More About Me</span></a>
       </div>
     </div>
